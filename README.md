@@ -4,3 +4,7 @@ La botanique (du grec βοτανική / botanikê[1], féminin du mot βοτα�
 <img width="750" height="352" alt="image" src="https://github.com/user-attachments/assets/e332868d-0844-4e9c-8e55-1cab2b3da28e" />
 ![Uploading image.png…]()![Uploading image.png…]()
 
+RANG	RANG	RANG
+SUPER REGNE	SUPER REGNE	SUPER REGNE
+RANG	RANG	RANG
+SUPER REGNE	SUPER REGNE	SUPER REGNE
